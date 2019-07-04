@@ -13,7 +13,7 @@
     "build": "webpack",
     "prepare": "webpack"
   },
-  "author": "Jesús Espino <jesus.espino@xenia.com>",
+  "author": "",
   "dependencies": {
     "estree-walk": "2.2.0",
     "filehound": "1.16.5",
